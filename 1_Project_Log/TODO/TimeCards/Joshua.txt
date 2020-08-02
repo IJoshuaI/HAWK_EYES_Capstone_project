@@ -1,6 +1,7 @@
 
-
-Week  3 total  31 hours    DONE  ==============================
+==========================================================================
+Running total  50 hours   
+Week_3 total  31 hours    ================================================
 2020-08-02:
 Set Git Repository on Github  4 hours  DONE 
 
@@ -24,3 +25,29 @@ Have class of Intelligent system development to study OpenCV  6 hours DONE
 2020-07-27：
 Learn OpenCV 3 hours  DONE 
 Learn OCR  3 hours DONE 
+
+===============================================================================
+Running total  19 hours 
+week 2  total 12 hours   ====================================================
+
+2020-07-24:
+Learn OpenCV   6hour  DONE 
+
+
+2020-07-21:
+Learn OpenCV     4 hours   DONE 
+Capstone Class   1 hour   DONE 
+write BID.doc    1 hour  DONE 
+
+
+===============================================================================
+Running total  7 hours 
+week_1 total 7  hours    =================================================
+
+2020-07-16: 
+Capstone Class    1 hour  DONE 
+Choose Team member   1hour  DONE 
+
+2020-07-14:   
+Capstone Class   1 hour   DONE 
+Learn OpenCV     4 hours  DONE 
