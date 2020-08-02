@@ -1,23 +1,26 @@
 
+
+Week  3 total  31 hours    DONE  ==============================
 2020-08-02:
-Set Git Repository on Github  DONE 
+Set Git Repository on Github  4 hours  DONE 
 
 
 2020-07-31：
-Meeting with Client   DONE 
+Team Meeting     1 hour      DONe 
+Meeting with Client  1 hour   DONE 
 
 2020-07-30：
-Team Contract     DONE 
-learn CNN      DONE 
+Team Contract  3 hours    DONE 
+learn CNN    3 hours   DONE 
 
 2020-07-29：
-learn OCR with persster   DONE 
-learn OpenCV   DONE  
-learn CNN    DONE 
+learn OCR with persster  1 hours    DONE 
+learn OpenCV  3 hours  DONE  
+learn CNN    3 hours  DONE 
 
 2020-07-28：
-Have class of Intelligent system development to study OpenCV  DONE 
+Have class of Intelligent system development to study OpenCV  6 hours DONE 
 
 2020-07-27：
-Learn OpenCV DONE 
-Learn OCR  DONE 
+Learn OpenCV 3 hours  DONE 
+Learn OCR  3 hours DONE 
