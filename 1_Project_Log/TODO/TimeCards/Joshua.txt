@@ -1,0 +1,23 @@
+
+2020-08-02:
+Set Git Repository on Github  DONE 
+
+
+2020-07-31：
+Meeting with Client   DONE 
+
+2020-07-30：
+Team Contract     DONE 
+learn CNN      DONE 
+
+2020-07-29：
+learn OCR with persster   DONE 
+learn OpenCV   DONE  
+learn CNN    DONE 
+
+2020-07-28：
+Have class of Intelligent system development to study OpenCV  DONE 
+
+2020-07-27：
+Learn OpenCV DONE 
+Learn OCR  DONE 
